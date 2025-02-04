@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @splinterwow
+# 👋 Hi, I'm Sherzodbek Adkhamjonov/@splinterwow
 
 ### 👨‍💻 About Me
 I'm Sherzodbek Adkhamjonov, a passionate Software Developer focused on web development. I love creating efficient and user-friendly applications using modern technologies.
