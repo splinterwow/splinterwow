@@ -29,7 +29,7 @@ I'm Sherzodbek Adkhamjonov, a passionate Software Developer focused on web devel
 
 *   📧 Email: [splinterwow01@gmail.com](mailto:splinterwow01@gmail.com)
 *   💬 Telegram: [@adkhamjonov25](https://t.me/adkhamjonov25)
-*   📱 Instagram: [@sherzod_web](https://www.instagram.com/sherzod_web/)
+*   📱 Instagram: [@sherzod_web](https://www.instagram.com/199shrz/)
 
 ⚡ Fun fact
 
